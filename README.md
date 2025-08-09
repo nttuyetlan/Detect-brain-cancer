@@ -9,11 +9,13 @@
 ![Poster](https://github.com/user-attachments/assets/bf033a99-599f-4740-94b0-8a17422ec865)  
 ## Data preprocessing  
 <img width="720" height="70" alt="image" src="https://github.com/user-attachments/assets/c28e1956-45ad-4e1d-95a1-5c170cfdea67" />  
+
 ## Topic ideas  
 - Object detection  
 <img width="701" height="199" alt="image" src="https://github.com/user-attachments/assets/cb56c05f-64e4-4065-8566-e7bc8180ca90" />  
 - Classification  
-  <img width="578" height="130" alt="image" src="https://github.com/user-attachments/assets/0778ee10-85ef-49cb-a55d-1b6dc60589fb" />  
+  <img width="578" height="130" alt="image" src="https://github.com/user-attachments/assets/0778ee10-85ef-49cb-a55d-1b6dc60589fb" />
+  
 ## Training the model  
 ### Object Detection  
 THÔNG SỐ TRAIN: YOLOv9c, EPOCHS=300, BATCH=32, IMGSZ=640, DEVICE=[0,1]  
