@@ -12,7 +12,8 @@
 
 ## Topic ideas  
 - Object detection  
-<img width="701" height="199" alt="image" src="https://github.com/user-attachments/assets/cb56c05f-64e4-4065-8566-e7bc8180ca90" />  
+<img width="701" height="199" alt="image" src="https://github.com/user-attachments/assets/cb56c05f-64e4-4065-8566-e7bc8180ca90" />
+
 - Classification  
   <img width="578" height="130" alt="image" src="https://github.com/user-attachments/assets/0778ee10-85ef-49cb-a55d-1b6dc60589fb" />
   
@@ -20,12 +21,16 @@
 ### Object Detection  
 THÔNG SỐ TRAIN: YOLOv9c, EPOCHS=300, BATCH=32, IMGSZ=640, DEVICE=[0,1]  
 <img width="2400" height="1200" alt="image" src="https://github.com/user-attachments/assets/643e3cb6-c011-4395-a99f-48c3b90ba160" />  
+
 ### Classification  
 <img width="1243" height="776" alt="image" src="https://github.com/user-attachments/assets/7189b539-a4a8-4740-90d7-beef95f62aca" />  
+
 ## Results  
+
 ### Object Detection  
 <img width="2250" height="1500" alt="image" src="https://github.com/user-attachments/assets/78cb4c28-5827-4983-a003-0205ed72afab" />  
 <img width="1920" height="1556" alt="image" src="https://github.com/user-attachments/assets/1871bf4e-2de6-4ccf-b117-31f1e8df4a86" />  
+
 ### Classification  
 <img width="475" height="190" alt="image" src="https://github.com/user-attachments/assets/76a5f8fc-c6f9-4627-a32c-ae4fe495d5af" />
 
